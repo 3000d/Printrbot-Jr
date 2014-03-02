@@ -7,7 +7,6 @@ Roadmap
 -------
 
 * Add the BOM from European suppliers
-* Add Slic3r config files
 * Correct the sketchup model file
 
 How to use
